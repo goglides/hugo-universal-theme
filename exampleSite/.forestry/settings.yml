@@ -28,6 +28,6 @@ build:
   publish_env:
   - HUGO_ENV=production
   - HUGO_VERSION=0.52
-  preview_output_directory: public
+  preview_output_directory: exampleSite /public
   output_directory: public
 version: '0.52'
